@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Mi primer repositorio para el curso de freeCodeCamp
+# Mi primer Readme
+Mi primer readme
